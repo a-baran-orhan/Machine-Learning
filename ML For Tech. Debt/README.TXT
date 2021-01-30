@@ -12,15 +12,15 @@ receive short-term repayments. The consequences related to these skipped activit
 cumulated in the software, and it is called as 'debt.' If there is too much technical debt that
 is accumulated, it causes low software quality, pointing to the initiation of design and code
 quality problems. Because development will slow down, maintainability of the software will
-be dicult. To fix these quality problems, it requires extra eort for their mitigation. TD is
-a measure of the eort needed for fixing these problems in the future and used as a measure
+be difficult. To fix these quality problems, it requires extra effort for their mitigation. TD is
+a measure of the effort needed for fixing these problems in the future and used as a measure
 of quality. Therefore, the higher value of TD for a software product means more unresolved
 quality problems included in, and lower overall quality. Since measuring TD directly can be
-dicult, we propose to analyze whether there is a relation between TD with internal and
+difficult, we propose to analyze whether there is a relation between TD with internal and
 external metrics.
 
 DATASET
 Real world dataset (https://zenodo.org/record/4265301#.X84QNLOhlPY)
 that consists of information about 50 open source Android project. In this dataset, 
-16 dierent metrics of the each project.these metrics are as "external",
+16 different metrics of the each project.these metrics are as "external",
 "internal", and "TD" metrics.

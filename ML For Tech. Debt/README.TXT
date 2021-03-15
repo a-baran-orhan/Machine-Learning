@@ -1,6 +1,6 @@
 If something went wrong while opening this file, please wait and refresh the page after a minute.
 
-In this projects( first of mine ), I implement a program to solve a real-world machine learning
+In this project( first of mine ), I implement a program to solve a real-world machine learning
 problem with real-world data. In this project, I used Python data science
 libraries such as; Pandas, NumPy, and Matplotlib. In the end, there were three types of
 machine learning models.
